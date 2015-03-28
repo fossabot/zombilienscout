@@ -1,5 +1,5 @@
 @Config =
-	name: 'My App'
+	name: 'Zombilienscout'
 	title: 'Make Meteor Apps. Fast.'
 	subtitle: 'A boilerplate from MeteorFactory.io'
 	logo: ->
