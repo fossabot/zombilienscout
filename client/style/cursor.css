@@ -1,0 +1,7 @@
+
+.cursor {
+    position: fixed;
+    width: 11px;
+    height: 17px;
+    background-color:#000;
+}
