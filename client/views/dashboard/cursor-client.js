@@ -1,4 +1,4 @@
-Template.body.events({
+Template.dashboard.events({
     'mousemove': function(event) {
         if (Meteor.status().connected) {
             Cursors.update(Meteor.connection._lastSessionId, {
