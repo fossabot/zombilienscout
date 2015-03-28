@@ -10,6 +10,10 @@ Schemas.Posts = new SimpleSchema
 		autoform:
 			rows: 5
 
+	rent:
+		type:String
+		max: 60
+
 	createdAt: 
 		type: Date
 		autoValue: ->
