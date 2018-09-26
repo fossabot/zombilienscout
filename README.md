@@ -50,3 +50,8 @@ First steps:
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/login.png)
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/profile.png)
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/like_comment.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandreasmauer%2Fzombilienscout.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandreasmauer%2Fzombilienscout?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandreasmauer%2Fzombilienscout.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandreasmauer%2Fzombilienscout?ref=badge_large)
